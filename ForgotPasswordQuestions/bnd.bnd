@@ -1,0 +1,6 @@
+Bundle-Description: JSP override of the forgot password screen for facilitating more questions.
+Bundle-Name: com.liferay.forgot.password.jsp.override
+Bundle-SymbolicName: com.liferay.forgot.password.jsp.override
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.login.web;bundle-version="1.1.24"
+-sources: true

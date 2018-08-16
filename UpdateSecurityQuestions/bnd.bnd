@@ -1,0 +1,8 @@
+Bundle-Description: JSP override of the update reminder question screen for facilitating more questions.
+Bundle-Name: com.liferay.reminder.question.jsp.override
+Bundle-SymbolicName: com.liferay.reminder.question.jsp.override
+Bundle-Version: 1.0.0
+-sources: true
+
+-jsp: *.jsp,*.jspf
+-plugin.jsp: com.liferay.ant.bnd.jsp.JspAnalyzerPlugin

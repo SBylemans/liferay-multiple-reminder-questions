@@ -1,0 +1,4 @@
+Bundle-Description: MVC action override of the forgot password screen for facilitating more questions.
+Bundle-Name: com.liferay.forgot.password.action.override
+Bundle-SymbolicName: com.liferay.forgot.password.action.override
+Bundle-Version: 1.0.0
